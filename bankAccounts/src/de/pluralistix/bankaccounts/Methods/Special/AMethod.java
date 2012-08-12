@@ -177,7 +177,7 @@ public abstract class AMethod {
 	}
 
 	/**
-	 * @return the einerstelle
+	 * @return the unitPosition
 	 */
 	public final boolean isUnitPosition() {
 		return unitPosition;
@@ -291,7 +291,7 @@ public abstract class AMethod {
 
 	/**
 	 * @param paramUnitPosition
-	 *            the einerstelle to set
+	 *            the unitPosition to set
 	 */
 	public final void setUnitPosition(final boolean paramUnitPosition) {
 		unitPosition = paramUnitPosition;

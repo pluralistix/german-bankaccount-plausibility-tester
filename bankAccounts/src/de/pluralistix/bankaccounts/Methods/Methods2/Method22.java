@@ -10,7 +10,7 @@ public class Method22 extends AMethod {
 
 	/**
 	 */
-	private static final boolean EINERSTELLE = true;
+	private static final boolean UNITPOSITION = true;
 
 	/**
 	 */
@@ -22,7 +22,7 @@ public class Method22 extends AMethod {
 	public Method22() {
 		super();
 		super.setWeight(WEIGHT);
-		super.setUnitPosition(EINERSTELLE);
+		super.setUnitPosition(UNITPOSITION);
 	}
 
 	/**

@@ -20,7 +20,7 @@ public class Method00 extends AMethod {
 
 	/**
 	 */
-	private boolean validateWithEinerStelle = true;
+	private boolean validateWithUnitPosition = true;
 
 	/**
 	 */
@@ -31,19 +31,19 @@ public class Method00 extends AMethod {
 	}
 
 	/**
-	 * @return the validateWithEinerStelle
+	 * @return the validateWithUnitPosition
 	 */
-	public final boolean isValidateWithEinerStelle() {
-		return validateWithEinerStelle;
+	public final boolean isValidateWithUnitPosition() {
+		return validateWithUnitPosition;
 	}
 
 	/**
-	 * @param paramValidateWithEinerStelle
+	 * @param paramValidateWithUnitPosition
 	 *            the validateWithEinerStelle to set
 	 */
-	public final void setValidateWithEinerStelle(
-			final boolean paramValidateWithEinerStelle) {
-		validateWithEinerStelle = paramValidateWithEinerStelle;
+	public final void setValidateWithunitPosition(
+			final boolean paramValidateWithUnitPosition) {
+		validateWithUnitPosition = paramValidateWithUnitPosition;
 	}
 
 	/**
@@ -52,6 +52,6 @@ public class Method00 extends AMethod {
 	 */
 	@Override
 	public void validate(final String paramAccountNumber) {
-		doValidate(product(), isValidateWithEinerStelle());
+		doValidate(product(), isValidateWithUnitPosition());
 	}
 }
