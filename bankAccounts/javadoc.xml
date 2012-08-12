@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="private" author="true" classpath="." destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="de.pluralistix.bankaccounts.Exceptions,de.pluralistix.bankaccounts.Config,de.pluralistix.bankaccounts.Methods.Methods7,de.pluralistix.bankaccounts.Methods.Methods8,de.pluralistix.bankaccounts.Methods.MethodsA,de.pluralistix.bankaccounts.Methods.MethodsC,de.pluralistix.bankaccounts.Methods.Methods5,de.pluralistix.bankaccounts.Methods.Methods1,de.pluralistix.bankaccounts.Utils,de.pluralistix.bankaccounts.Methods.Methods3,de.pluralistix.bankaccounts.Methods.Methods9,de.pluralistix.bankaccounts.Methods.Methods6,de.pluralistix.bankaccounts.Methods.Methods4,de.pluralistix.bankaccounts.Methods.Methods2,de.pluralistix.bankaccounts.Methods.Methods0,de.pluralistix.bankaccounts.Methods.MethodsB,de.pluralistix.bankaccounts.Methods.MethodsD,de.pluralistix.bankaccounts.Methods,de.pluralistix.bankaccounts.Methods.Special" source="1.7" sourcepath="src;" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
