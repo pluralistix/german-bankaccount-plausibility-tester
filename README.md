@@ -2,5 +2,5 @@ german-bankaccount-plausibility-tester
 ======================================
 
 -a (java) way to check german bank accounts for plausibility, IBAN checker and IBAN generator
--deutsche Kontonummmern prÃ¼fen (PlausibilitÃ¤t) (inkl. IBAN) und IBAN-Generator (kann natÃ¼rlich nur zu Testzwecken benutzt werden, da es nur Kreditinstituten erlaubt ist, IBAN "zu generieren")
+-deutsche Kontonummmern prüfen (Plausibilität) (inkl. IBAN) und IBAN-Generator (kann natürlich nur zu Testzwecken benutzt werden, da es nur Kreditinstituten erlaubt ist, IBAN "zu generieren")
 
